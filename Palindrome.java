@@ -1,3 +1,4 @@
+// file is edited
 import java.util.Scanner;
 
 public class Palindrome {
