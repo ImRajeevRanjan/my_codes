@@ -1,5 +1,7 @@
 // trial file is edited
 // again file edited
+//edited in new branch
+
 import java.util.Scanner;
 
 public class Palindrome {
